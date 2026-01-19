@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ashu8169/myapp:afe70a189e1a662b46f8d828066d048fc80c95e4
+        image: ashu8169/myapp:d3e5fe2f32699eea8ca8bd459278bb7dfc132a54
         ports:
         - containerPort: 3000
